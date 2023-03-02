@@ -1,0 +1,36 @@
+header{
+    text-align:center;
+    background-color:lightblue;
+    height:80px;
+    top:0;
+    position:fixed;
+    width:100%;
+    color:brown;
+}
+h2{
+    margin-top:100px;
+    text-align: center;
+    color:blue
+}
+.container{
+    margin:auto;
+    width:50%;
+    text-align:center;
+}
+form{
+    margin:auto;
+    font-size: 20px;
+}
+.form-group{
+    margin:auto;
+    width:50%;
+    text-align:left;
+}
+#firstname,#lastname,#mobile,#email,#pass{
+    margin:auto;
+    width:96%;
+    padding:5px;
+}
+span{
+    color:red;
+}
